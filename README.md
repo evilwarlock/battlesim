@@ -1,4 +1,10 @@
-# battlesim
-battlesim in EE for TEA
-To do:
-[ ] fix max mid slots cap
+# Project Name
+battle sim for TEA
+
+### Column Name
+- [ ] mid slots cap  
+  
+
+### Completed Column ✓
+- [x] Ship role
+- [x] Perfect focus fire order
