@@ -1,10 +1,10 @@
 # Project Name
 battle sim for TEA
 
-### Column Name
+### To do
 - [ ] mid slots cap  
   
 
-### Completed Column ✓
+### Done ✓
 - [x] Ship role
 - [x] Perfect focus fire order
