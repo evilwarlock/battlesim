@@ -16,7 +16,7 @@ class Ship:
         self.role = role
 
     def isAlive(self):
-        if self.ehp < 0:
+        if self.ehp <= 0:
             return False
         else:
             return True
