@@ -174,7 +174,7 @@ class Fleet:
     def get_total_dps(self):
         dps = 0
         for squad in self.squads:
-            dps += squad.get_total_dps
+            dps += squad.get_total_dps()
         return dps
     
 
@@ -205,7 +205,7 @@ class Fleet:
             count += squad.get_alive_number()
         return count
 
-    
+
     def take_damage(self, damage):
         for squad in self.squads:
             if (damage <= 0):
